@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "notrexy0909",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "Astroosmp.aternos.me:40120",
+    "port": 40120,
+    "version": "26.3"
   },
   "position": {
     "enabled": true,
